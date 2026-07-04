@@ -1,4 +1,4 @@
-# Gearbox System Firmware
+# Gearbox System Firmware V1.0
 
 > Firmware and testing environment for the development, configuration, and validation of the gearbox control system.
 
