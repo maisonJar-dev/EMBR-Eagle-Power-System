@@ -1,5 +1,7 @@
 #include <Arduino.h>
 #include <Servo.h>
+#include <string.h>
+#include <ctype.h>
 
 
 // MARK: Enum

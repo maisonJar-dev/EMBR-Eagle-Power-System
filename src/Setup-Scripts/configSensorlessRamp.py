@@ -29,10 +29,10 @@ class Args(argparse.Namespace):
 
     # RC-PWM velocity range
     # Keep low while testing.
-    pwm_vel_limit: float = 5.0          # turns/s command range
+    pwm_vel_limit: float = 5.0       # turns/s command range
 
     # Motor/current safety
-    current_limit: float = 20.0         # A
+    current_limit: float = 20.0       # A
 
     # Smoothness tuning
     # Lower = softer/slower acceleration
